@@ -6,6 +6,4 @@
 
 <img alt="Backend Skills" src="https://skillicons.dev/icons?i=java,spring,maven,gradle,docker,postgres,azure" />
 
-<br/>
-
 <img alt="Frontend Skills" src="https://skillicons.dev/icons?i=js,ts,react,astro,next,supabase,vercel" />
