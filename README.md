@@ -2,7 +2,7 @@
 
 Co-owner of [capysoft](https://capysoft.app/).
 
-<img alt="Capysoft Icon" src="https://www.capysoft.app/brand/icons/capysoft-icon4.svg" width="50" height="50" />
+<img alt="Capysoft Icon" src="https://www.capysoft.app/favicon.svg" width="50" height="50" />
 
 ---
 
